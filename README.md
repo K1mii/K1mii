@@ -105,5 +105,4 @@
 
 - 💬 Ask me about **AI, Data Science, and Autonomous Agents**
 - 📫 How to reach me **[Kamrannazir503@gmail.com]** 
-- 📄 Know more about my work: **[Download my CV](YOUR_CV_LINK_HERE)**
 - ⚡ Fun fact: I enjoy building autonomous AI agents that can research, analyze, and trade all on their own!
