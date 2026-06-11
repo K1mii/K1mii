@@ -1,4 +1,4 @@
-<h1 align="center"><font face="Arial">Hi 👋, I'm M.Kamran Nazir</font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm M.Kamran</font></h1>
 <h3 align="center"><font face="Arial">A passionate AI Engineer and Data Scientist from Pakistan.I specialize in building end-to-end machine learning models, autonomous AI agents, and data-driven applications.</font></h3>
 
 <p align="center">
